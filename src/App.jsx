@@ -24,7 +24,7 @@ function App() {
         <div className='text-center mt-5'>
           <h2 className='text-white text-xl font-bold'>Jessica Randall</h2>
           <p className='text-dgreen text-xs mb-5 mt-2'>London, United Kingdom</p>
-          <p className='text-gray-400 text-xs'>"Front-end developer and avid reader."</p>
+          <p className='text-gray-300 text-xs'>"Front-end developer and avid reader."</p>
         </div>
         <div className='mt-5'>
           {socialLinks.map((soc,i) => {

@@ -12,8 +12,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Live site](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/social-links-profile-using-react-and-tailwind-css-yPxPz12u9X)
+- Live Site URL: [Live site](https://social-links-profile-nu-nine.vercel.app/)
 
 ## My process
 
